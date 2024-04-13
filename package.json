@@ -1,0 +1,25 @@
+{
+  "name": "learnjest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saranyajayakumaran/learnjest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saranyajayakumaran/learnjest/issues"
+  },
+  "homepage": "https://github.com/Saranyajayakumaran/learnjest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.24.1"
+  }
+}
